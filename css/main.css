@@ -1,0 +1,65 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, sans-serif;
+    background-color: darkgrey;
+
+}
+
+h1 {
+    text-align: center;
+}
+
+table {
+    background-color: aliceblue;
+    width: 50%;
+    border: 1px solid black;
+    margin-left: 25%;
+    margin-top: 20px;
+    border-collapse: collapse;
+
+}
+
+thead {
+    background-color: cadetblue;
+    text-align: center;
+}
+
+input {
+    height: 30px;
+}
+
+td {
+
+    height: 20px;
+    border: 1px solid black;
+}
+
+.tdAbout {
+    width: 400px;
+}
+.tdOther {
+    width: 76px;
+    align-content: center;
+
+}
+
+.trTag {
+    text-align: center;
+}
+
+a:link {
+    color: black;
+    text-decoration: none;
+}
+
+a:visited {
+    color: black;
+    text-decoration: none;
+}
+
+a:active {
+    color: black;
+    text-decoration: none;
+
+}
